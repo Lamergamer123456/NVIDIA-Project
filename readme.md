@@ -12,4 +12,4 @@ To run this project run all of the boxes of code. After that a user interface wi
 
 
 
-[View a video explanation here](video link)
+https://youtu.be/sy5em2fg6QM
